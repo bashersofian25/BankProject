@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OOPAplications.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsBankClient.h(369,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsLoginScreen.h(74): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsBankClient.h(314): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\140431\source\repos\OOPAplications\OOPAplications\clsUser.h(310): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOPAplications.vcxproj -> C:\Users\140431\source\repos\OOPAplications\x64\Debug\BankSystemProject.exe
